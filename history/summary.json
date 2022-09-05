@@ -43,19 +43,19 @@
     "url": "https://files.worldofsteelcraft.tk",
     "icon": "https://favicons.githubusercontent.com/files.worldofsteelcraft.tk",
     "slug": "wo-sc-files",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "93.86%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 1530,
-    "timeDay": 3517,
-    "timeWeek": 2255,
-    "timeMonth": 1530,
-    "timeYear": 1530,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 2079,
+    "timeDay": 5427,
+    "timeWeek": 3381,
+    "timeMonth": 2079,
+    "timeYear": 2079,
     "dailyMinutesDown": {
-      "2022-09-05": 89
+      "2022-09-05": 104
     }
   },
   {
