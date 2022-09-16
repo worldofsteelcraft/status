@@ -13,8 +13,6 @@ sites:
     url: https://wosc.tk
   - name: Link Service 2
     url: https://lnksvc2.wosc.tk
-  - name: Test Offline Site
-    url: https://offline.worldofsteelcraft.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
