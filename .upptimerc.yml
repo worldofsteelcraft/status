@@ -8,6 +8,7 @@ sites:
   - name: SMP Server
     url: $URL_SMPQUERYAPI
     showAverageResponseTime: false
+    urlSecretText: SMP Server
   - name: WoSC Files
     url: https://files.worldofsteelcraft.tk
   - name: Link Service 1
