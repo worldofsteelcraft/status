@@ -15,6 +15,10 @@ sites:
     url: https://wosc.tk
   - name: Link Service 2
     url: https://lnksvc2.wosc.tk
+  - name: Down Site Test
+    url: https://.com
+    showAverageResponseTime: false
+    urlSecretText: Down Site Test
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
