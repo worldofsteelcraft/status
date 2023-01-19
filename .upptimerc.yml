@@ -13,7 +13,9 @@ sites:
     url: https://wosc.tk
   - name: Link Service 2
     url: https://lnksvc2.wosc.tk
-
+  - name: Down Service Test 3
+    url: $URL_DOWN_SITE_TEST
+    showUrlInNotifications: false
 status-website:
   cname: status.worldofsteelcraft.tk
   # baseUrl: /your-repo-name
