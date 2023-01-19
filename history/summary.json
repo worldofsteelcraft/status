@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 306,
-    "timeWeek": 938,
-    "timeMonth": 541,
-    "timeYear": 455,
+    "time": 453,
+    "timeDay": 296,
+    "timeWeek": 881,
+    "timeMonth": 533,
+    "timeYear": 453,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "85.07%",
     "uptimeYear": "92.41%",
     "time": 840,
-    "timeDay": 622,
-    "timeWeek": 938,
-    "timeMonth": 1000,
+    "timeDay": 648,
+    "timeWeek": 924,
+    "timeMonth": 994,
     "timeYear": 840,
     "dailyMinutesDown": {
       "2023-01-18": 151,
@@ -74,11 +74,11 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.67%",
-    "time": 1596,
-    "timeDay": 1583,
-    "timeWeek": 1729,
-    "timeMonth": 1391,
-    "timeYear": 1596,
+    "time": 1593,
+    "timeDay": 1478,
+    "timeWeek": 1681,
+    "timeMonth": 1383,
+    "timeYear": 1593,
     "dailyMinutesDown": {
       "2023-01-12": 34,
       "2023-01-08": 17,
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "87.81%",
-    "time": 450,
-    "timeDay": 410,
-    "timeWeek": 791,
-    "timeMonth": 476,
-    "timeYear": 450,
+    "time": 449,
+    "timeDay": 385,
+    "timeWeek": 749,
+    "timeMonth": 471,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2022-12-21": 35,
       "2022-11-15": 994,
@@ -144,9 +144,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.80%",
     "time": 487,
-    "timeDay": 310,
-    "timeWeek": 325,
-    "timeMonth": 328,
+    "timeDay": 347,
+    "timeWeek": 339,
+    "timeMonth": 333,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2022-11-15": 994,
@@ -170,26 +170,6 @@
       "2022-10-28": 1336,
       "2022-09-21": 30,
       "2022-08-19": 44
-    }
-  },
-  {
-    "name": "Down Site Test 2",
-    "url": "$URL_DOWN_SITE_TEST",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "down-site-test-2",
-    "status": "down",
-    "uptime": "10.39%",
-    "uptimeDay": "10.39%",
-    "uptimeWeek": "10.39%",
-    "uptimeMonth": "10.39%",
-    "uptimeYear": "10.39%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-01-19": 0
     }
   }
 ]
