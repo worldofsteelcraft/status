@@ -7,7 +7,7 @@ sites:
     url: $URL_SMPQUERYAPI
     showAverageResponseTime: false
     urlSecretText: SMP Server
-    __dangerous__body_down_if_text_missing: '"Online": true"'
+    __dangerous__body_down_if_text_missing: '"Online": true'
   - name: WoSC Files
     url: https://files.worldofsteelcraft.tk
   - name: Link Service 1
