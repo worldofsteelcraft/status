@@ -10,7 +10,7 @@ sites:
     __dangerous__body_down_if_text_missing: '"Online": true'
   - name: WoSC Files
     url: https://files.worldofsteelcraft.tk
-    maxResponseTime: 120000 # It's a slow endpoint after all
+    maxResponseTime: 20000 
   - name: Link Service 1
     url: https://wosc.tk
   - name: Link Service 2
