@@ -5,21 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldofsteelcraft.tk.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.44%",
+    "uptimeYear": "98.72%",
     "time": 305,
-    "timeDay": 369,
-    "timeWeek": 523,
-    "timeMonth": 398,
-    "timeYear": 345,
+    "timeDay": 220,
+    "timeWeek": 479,
+    "timeMonth": 396,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2024-02-17": 1049,
       "2024-02-16": 1440,
-      "2024-02-15": 1440,
-      "2024-02-14": 1440
+      "2024-02-15": 1440
     }
   },
   {
@@ -28,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smp-server",
     "status": "down",
-    "uptime": "48.04%",
+    "uptime": "47.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3000,
-    "timeDay": 3328,
-    "timeWeek": 3473,
-    "timeMonth": 3317,
-    "timeYear": 3422,
+    "time": 3005,
+    "timeDay": 3520,
+    "timeWeek": 3497,
+    "timeMonth": 3311,
+    "timeYear": 3429,
     "dailyMinutesDown": {
-      "2025-02-12": 62,
+      "2025-02-13": 62,
+      "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -402,8 +402,7 @@
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
-      "2024-02-15": 1440,
-      "2024-02-14": 1440
+      "2024-02-15": 1440
     }
   },
   {
@@ -412,21 +411,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/wosc.tk.ico",
     "slug": "link-service-1",
     "status": "up",
-    "uptime": "96.72%",
+    "uptime": "96.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.44%",
-    "time": 291,
-    "timeDay": 339,
-    "timeWeek": 398,
+    "uptimeYear": "98.72%",
+    "time": 292,
+    "timeDay": 324,
+    "timeWeek": 400,
     "timeMonth": 400,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2024-02-17": 1049,
       "2024-02-16": 1440,
-      "2024-02-15": 1440,
-      "2024-02-14": 1440
+      "2024-02-15": 1440
     }
   },
   {
@@ -439,12 +437,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.69%",
     "time": 423,
-    "timeDay": 311,
-    "timeWeek": 498,
+    "timeDay": 513,
+    "timeWeek": 516,
     "timeMonth": 597,
-    "timeYear": 408,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2024-11-15": 23,
       "2024-09-26": 17,
@@ -453,8 +451,7 @@
       "2024-04-04": 37,
       "2024-02-17": 1049,
       "2024-02-16": 1440,
-      "2024-02-15": 1440,
-      "2024-02-14": 1440
+      "2024-02-15": 1440
     }
   }
 ]
