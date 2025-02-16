@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.54%",
     "time": 306,
-    "timeDay": 367,
-    "timeWeek": 373,
-    "timeMonth": 395,
+    "timeDay": 410,
+    "timeWeek": 396,
+    "timeMonth": 401,
     "timeYear": 345,
-    "dailyMinutesDown": {
-      "2024-02-17": 1049
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SMP Server",
@@ -25,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smp-server",
     "status": "down",
-    "uptime": "47.88%",
+    "uptime": "47.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3015,
-    "timeDay": 3289,
-    "timeWeek": 3439,
-    "timeMonth": 3302,
-    "timeYear": 3442,
+    "time": 3021,
+    "timeDay": 3369,
+    "timeWeek": 3437,
+    "timeMonth": 3288,
+    "timeYear": 3447,
     "dailyMinutesDown": {
-      "2025-02-15": 61,
+      "2025-02-16": 67,
+      "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -399,8 +398,7 @@
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
-      "2024-02-18": 1440,
-      "2024-02-17": 1440
+      "2024-02-18": 1440
     }
   },
   {
@@ -409,19 +407,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wosc.tk.ico",
     "slug": "link-service-1",
     "status": "up",
-    "uptime": "96.73%",
+    "uptime": "96.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.54%",
     "time": 292,
-    "timeDay": 260,
-    "timeWeek": 354,
+    "timeDay": 405,
+    "timeWeek": 376,
     "timeMonth": 398,
     "timeYear": 325,
-    "dailyMinutesDown": {
-      "2024-02-17": 1049
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Link Service 2",
@@ -429,23 +425,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/lnksvc2.wosc.tk.ico",
     "slug": "link-service-2",
     "status": "up",
-    "uptime": "96.71%",
+    "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.24%",
-    "time": 424,
-    "timeDay": 455,
-    "timeWeek": 458,
-    "timeMonth": 611,
+    "uptimeYear": "99.52%",
+    "time": 425,
+    "timeDay": 260,
+    "timeWeek": 430,
+    "timeMonth": 610,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2024-11-15": 23,
       "2024-09-26": 17,
       "2024-04-27": 22,
       "2024-04-06": 20,
-      "2024-04-04": 37,
-      "2024-02-17": 1049
+      "2024-04-04": 37
     }
   }
 ]
